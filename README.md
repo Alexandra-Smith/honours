@@ -1,4 +1,4 @@
-honours project
+Honours project 2021
 ==============================
 Title: The automated detection of brain tumours in MRI scans
 ==============================
